@@ -21,6 +21,9 @@
 Mis conocimientos de público y los mercados a través de mi experiencia previa del Marketing y la Publicidad me proporcionan una visión amplificada y agudizada, por la cual las soluciones o propuestas que yo puedo hacer a la hora de implementar las tecnologías de la programación se encuentran correctamente enfocada a dar soluciones reales.
 
 Contactáme !!! 📫
+
 📱 +54 9 11 5039 5291
+
 📧 e-mail: matiasdentoni@gmail.com
+
 📁 Linkedin: https://www.linkedin.com/in/matiasdentoni/
