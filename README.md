@@ -16,7 +16,8 @@
 🔸 Git | GitHub.
 🔸 metodología SCRUM
 
-## Valor Diferencial: Conocimiento del Campo Vs. Aplicación Experimental
+## Valor Diferencial: 
+#### Conocimiento del Campo Vs. Aplicación Experimental
 
 Mis conocimientos de público y los mercados a través de mi experiencia previa del Marketing y la Publicidad me proporcionan una visión amplificada y agudizada, por la cual las soluciones o propuestas que yo puedo hacer a la hora de implementar las tecnologías de la programación se encuentran correctamente enfocada a dar soluciones reales.
 
